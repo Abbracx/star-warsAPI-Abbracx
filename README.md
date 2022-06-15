@@ -1,4 +1,4 @@
-# Week-One-PersonalTask
+# A STARWARS SPA
 
 ## Problem Description:
 
