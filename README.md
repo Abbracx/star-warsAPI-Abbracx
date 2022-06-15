@@ -18,5 +18,5 @@ Create a SPA (single page application) using html, CSS and JavaScript. It shows 
 
 5. When you are done, host on heroku or netlify (link should be added to your turned in field on Teams)
 
-**ACEESS ME**:  [week-one-task-Abbracx](https://abbracx.github.io/week-one-task-Abbracx/)
+**ACEESS ME**:  [VIEW PAGE](https://abbracx.github.io/week-one-task-Abbracx/)
 
